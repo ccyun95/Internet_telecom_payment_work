@@ -1,0 +1,4 @@
+NAVER,035420
+Kakao,035720
+SKtelecom,017670
+Itcen_Global,124500
